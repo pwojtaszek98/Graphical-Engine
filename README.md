@@ -21,4 +21,4 @@ Currently GE-X contains simple graphical representation for squares, frame count
 
 
 
-# I will be adding documention directly into the code as comments soon. Stay put!
+# I will soon be adding documention directly into the code as comments. Stay put!
